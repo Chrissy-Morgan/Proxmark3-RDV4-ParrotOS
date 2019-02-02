@@ -3,7 +3,7 @@
 
 This tutorial has been created by following the [RFID research group](https://rfidresearchgroup.com) instructions for ubuntu. I am using the instructions based on ubuntu, as it is a Debian based system, which is the foundation for the Parrot OS. As there are no other tutorials out there for ParrotOS, I am going via this route for now. I've also taken a look at some other blogs and the github repo's and brought in where I could the useful parts which help the process.  There is also a video for full installation to help guide you. 
 
-If you want to head straight to the Installation head to [Installation](Parrot-OS-Proxmark3-RDV4-installation.md) but the below will give you some further information which may come in handy to know.
+If you want you can head straight to [Installation](Parrot-OS-Proxmark3-RDV4-installation.md) but the below will give you some further information which may come in handy to know.
 
 ## Background:
 This is the 2nd editorial and video I have done for the RDV4 installation, the first one, I showed to Iceman and being the legend, that he is, he has now kindly made changes to the GitHub repo based on some of the points I had made in the first video. He set to work straight away and now the GitHub repo is better than ever. 
