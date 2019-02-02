@@ -23,12 +23,10 @@ Get the latest commits , although its probably up to date.
 ```sh
 git pull
 ```
-In the github repo installation instructions it says 
-“Install the blacklist rules and add user to dialout group (if you on a Linux/ubuntu/debian). If you do this one, you need to logout and login in again to make sure your rights got changed.”  make udev will take care of this.
+Iceman has made the udev script which takes care of the blacklist rules. When you look at the Kali linux and Arch install you will see the equivalent and that is the remove modem manager command.  In addition to this, what the make udev command does is that it create's an alias for the pm3 under /dev. The command which is li/dev/ttyACM0 is not needed when you run the client, you only need to type /dev/pm then press autocomplete (tab). Although this has been included in the tutorial to help you identify the RDV4.
 ```sh
 make udev
 ```
-Iceman has made the udev script which takes care of the blacklist rules. When you look at the Kali linux and arch install you will see the equivalent and that is the remove modem manager command.  In addition to this what it does is create an alias for the pm3 under /dev. The /dev/ttyACM0 is not needed once it is there, you only need to know the /dev/pm then press autocomplete (tab)
 So log out and logg back in again. And now we are all set to take the next step. 
 ```sh
 Clean and complete compilation make clean && make all
