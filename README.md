@@ -29,4 +29,4 @@ And there is also a [RDV4 unboxing video](https://www.youtube.com/watch?v=aqS-Qs
 Tinker has created a blog post which covers some of the details around the lights and what they mean and how to use the Proxmark in standalone mode. Provides some images and some tips which can be found [Tinker - Badge Cloning with proxmark3 RDV4](https://www.tinker.sh/badge-cloning-clone-hid-prox-with-proxmark3-rvd4/) 
 Just FYI Iceman has also done an update with the leds  ie.  on older proxmark3 devices the leds RED and YELLOW lights up,  while on RDV4 its leds are A and C and all leds on rdv4 are red.  Only the power leds are blue.
 
-So hopefully th above is useful. You can head on over to the [Installation](Parrot-OS-Proxmark3-RDV4-installation.md) instructions here!
+So hopefully th above is useful. You can head on over to the [Installation](https://github.com/5w0rdfish/proxmark3/blob/master/Installation_Instructions/Parrot-OS-Proxmark3-RDV4-installation.md) instructions here!
